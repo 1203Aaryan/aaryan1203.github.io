@@ -8,18 +8,36 @@ published: true
 ---
 <table>
   <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Title</td>
-          <td>PYTHON lesson 7</td>
-          <td>Date</td>
-          <td>15/06/18</td>
-         </tr>
-      </table>
-    </td>
-    <td>
-      <td class="badgeimages"><img src="https://1203aaryan.github.io/aaryan1203.github.io//images/badge7.png"></td>
-    </td>
+    <td>Titl</td>
+    <td>My badges</td>
+    <td>Date</td>
+    <td>11/06/18</td>
   </tr>
- </table>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>All the badges I have earnt</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td>These are all the badges I have received in my time doing Python </td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
+
