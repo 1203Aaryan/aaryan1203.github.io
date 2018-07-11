@@ -8,12 +8,21 @@ published: true
 ---
 <table>
   <tr>
-    <td>Titl</td>
-    <td>My badges</td>
-    <td>Date</td>
-    <td>11/06/18</td>
+    <td>
+      <table>
+        <tr>
+          <td>Title</td>
+          <td>My badges</td>
+          <td>Date</td>
+          <td>11/06/18</td>
+         </tr>
+      </table>
+    </td>
+    <td>
+      <td class="badgeimages"><img src="https://1203aaryan.github.io/aaryan1203.github.io//images/all badges.png"></td>
+    </td>
   </tr>
-</table>
+ </table>
 
 
 <table>
